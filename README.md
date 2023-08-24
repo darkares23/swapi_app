@@ -91,3 +91,5 @@ A Django project that utilizes the SWAPI to fetch information about planets from
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
+
+
